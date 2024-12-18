@@ -1,0 +1,10 @@
+This guide provides a step-by-step procedure for adding two additional virtual drives to a virtual machine (VM). It covers different hypervisor platforms like VMware vSphere, Microsoft Hyper-V, and Oracle VirtualBox. After completing the procedure, you will also learn how to verify the addition of the new drives within the guest operating system.
+** Steps for Adding Two Virtual Drives to a VM**
+
+- Power Off the Virtual Machine (if necessary)
+
+- : Access the VM Settings
+
+- Add the First Virtual Drive.
+
+https://www.youtube.com/watch?v=5Xvh1-hno8Y
